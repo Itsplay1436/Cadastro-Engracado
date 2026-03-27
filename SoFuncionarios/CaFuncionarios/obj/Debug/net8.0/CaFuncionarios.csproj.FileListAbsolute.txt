@@ -1,0 +1,14 @@
+D:\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.AssemblyInfoInputs.cache
+D:\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.AssemblyInfo.cs
+D:\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.csproj.CoreCompileInputs.cache
+D:\SoFuncionarios\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.exe
+D:\SoFuncionarios\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.deps.json
+D:\SoFuncionarios\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.runtimeconfig.json
+D:\SoFuncionarios\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.dll
+D:\SoFuncionarios\CaFuncionarios\bin\Debug\net8.0\CaFuncionarios.pdb
+D:\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.dll
+D:\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\refint\CaFuncionarios.dll
+D:\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.pdb
+D:\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\CaFuncionarios.genruntimeconfig.cache
+D:\SoFuncionarios\CaFuncionarios\obj\Debug\net8.0\ref\CaFuncionarios.dll
